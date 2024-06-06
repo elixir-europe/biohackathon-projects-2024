@@ -38,8 +38,8 @@ This repository is intended for the BioHackathon Europe participants to share id
 * [31. Executable metadata mappings to FAIRify Biodiversity Genome Annotations](31.md)
 * [32. VCF Explorer: Empowering Genomic Data Interaction](32.md)
 
-<ul>
-<ol><a href="1.md">1. Accelerate your bioinformatics workflows with CGG AI Cloud</a></ol>
+<ul style="list-style-type: none;">
+<li><a href="1.md">1. Accelerate your bioinformatics workflows with CGG AI Cloud</a></li>
 <ol><a href="2.md">2. A curated assessment of metadata descriptors of AI-ready datasets</a></ol>
 <ol><a href="3.md">3: Reusable RDM Planning Environments for Trainings and Workshops</a></ol>
 <ol><a href="4.md">4. SPARQL Query Generation for Efficient Scientific Data Access of ELIXIR resources</a></ol>
