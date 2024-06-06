@@ -4,12 +4,7 @@
 This repository is intended for the BioHackathon Europe participants to share ideas. The event will take place in Campus Belloch, 4-8 November 2024. For more information, please see the [BioHackathon Europe website](https://biohackathon-europe.org/index.html).
 
 ## Accepted projects
-<style>
-ul 
-{
- list-style-type: none;
-}
-</style>
+
 * [1. Accelerate your bioinformatics workflows with CGG AI Cloud](1.md)
 * [2. A curated assessment of metadata descriptors of AI-ready datasets](2.md)
 * [3: Reusable RDM Planning Environments for Trainings and Workshops](3.md)
