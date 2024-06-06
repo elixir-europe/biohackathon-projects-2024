@@ -37,3 +37,7 @@ This repository is intended for the BioHackathon Europe participants to share id
 * [30. The BioHackathon Cloud](30.md)
 * [31. Executable metadata mappings to FAIRify Biodiversity Genome Annotations](31.md)
 * [32. VCF Explorer: Empowering Genomic Data Interaction](32.md)
+
+<ul>
+<ol><a href="1.md">1. Accelerate your bioinformatics workflows with CGG AI Cloud</a></ol>
+</ul>
