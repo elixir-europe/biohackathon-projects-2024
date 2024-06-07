@@ -20,10 +20,10 @@ This repository is intended for the BioHackathon Europe participants to share id
 <ol>12. <a href="12.md">Perturb -Bench: large-scale benchmarking of perturbational modelling tools in complex single-cell data</a></ol>
 <ol>13. <a href="13.md">Interconnecting identifiers.org into a broader metadata connectivity</a></ol>
 <ol>14. <a href="14.md">FAIRly easy APIs for research data in (Bio)Schema.org and RDF</a></ol>
-<ol>15. <a href="15.md">Enhancing interoperability of biomedical resources using ontologies.</a></ol>
+<ol>15. <a href="15.md">Enhancing interoperability of biomedical resources using ontologies</a></ol>
 <ol>16. <a href="16.md">Enhancing bio.tools by Semantic Literature Mining</a></ol>
 <ol>17. <a href="17.md">Development of FAIR image analysis workflows and training in Galaxy</a></ol>
-<ol>18. <a href="18.md">Expanding FAIR database integration through elucidation and transformation of underlying graph schemas.</a></ol>
+<ol>18. <a href="18.md">Expanding FAIR database integration through elucidation and transformation of underlying graph schemas</a></ol>
 <ol>19. <a href="19.md">Creating user benefit from ARC-ISA RO-Crate machine-actionability</a></ol>
 <ol>20. <a href="20.md">Structuring Clinical Reports into OMOP Common Data Model (CDM)</a></ol>
 <ol>21. <a href="21.md">Enhancing multi-omic analyses through a federated microbiome analysis service</a></ol>
