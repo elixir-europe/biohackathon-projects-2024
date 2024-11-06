@@ -6,7 +6,6 @@ This repository is intended for the BioHackathon Europe participants to share id
 ## Accepted projects
 
 <ul>
-<ol>1. <a href="1.md">Accelerate your bioinformatics workflows with CGG AI Cloud</a></ol>
 <ol>2. <a href="2.md">A curated assessment of metadata descriptors of AI-ready datasets</a></ol>
 <ol>3. <a href="3.md">Reusable RDM Planning Environments for Trainings and Workshops</a></ol>
 <ol>4. <a href="4.md">SPARQL Query Generation for Efficient Scientific Data Access of ELIXIR resources</a></ol>
@@ -33,7 +32,6 @@ This repository is intended for the BioHackathon Europe participants to share id
 <ol>25. <a href="25.md">Recognising research software contributions leveraging the ELIXIR infrastructure</a></ol>
 <ol>26. <a href="26.md">Reducing the environmental impact of Galaxy</a></ol>
 <ol>27. <a href="27.md">Integrating Bioconductor packages with the ELIXIR Research Software Ecosystem using EDAM</a></ol>
-<ol>28. <a href="28.md">Semantic Interoperability of Biomedical Data</a></ol>
 <ol>29. <a href="29.md">ELIXIR FAIR Lesson Plan Handbook: advancing researchers’ & data stewards’ FAIR skills</a></ol>
 <ol>30. <a href="30.md">The BioHackathon Cloud</a></ol>
 <ol>31. <a href="31.md">Executable metadata mappings to FAIRify Biodiversity Genome Annotations</a></ol>
